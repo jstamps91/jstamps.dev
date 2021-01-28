@@ -1,0 +1,1 @@
+module.exports = require("C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\src\\utils\\typography.ts")
