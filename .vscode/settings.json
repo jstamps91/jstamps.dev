@@ -12,5 +12,6 @@
   "prettier.disableLanguages": [],
   "[javascript]": {
     "editor.formatOnSave": true
-  }
+  },
+  "git.ignoreLimitWarning": true
 }
