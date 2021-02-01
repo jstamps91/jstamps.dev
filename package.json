@@ -1,12 +1,12 @@
 {
-  "name": "dantecalderon",
-  "description": "This is my personal web. Dante Caderón",
+  "name": "jstamps",
+  "description": "This is my personal web. Joshua Stamps",
   "version": "1.0.0",
-  "author": "Dante Calderón <mail@dantecalderon.dev>",
+  "author": "Joshua Stamps <stampsmed91@gmail.com>",
   "scripts": {
     "build": "gatsby build",
     "start": "gatsby develop",
-    "start:dev": "yarn start",
+    "start:dev": "npm start",
     "format": "prettier --config .prettierrc --write 'src/**/*.{ts,tsx}'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,7 +17,7 @@
     "babel-plugin-styled-components": "1.12.0",
     "bluebird": "3.7.2",
     "dotenv": "8.2.0",
-    "gatsby": "^2.29.1",
+    "gatsby": "^2.31.1",
     "gatsby-image": "2.8.0",
     "gatsby-plugin-catch-links": "2.7.0",
     "gatsby-plugin-feed": "2.10.0",
@@ -79,6 +79,9 @@
   ],
   "license": "MIT",
   "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
     "@types/node": "^14.14.17",
     "@types/react-dom": "^17.0.0",
     "@types/styled-components": "^5.1.7",

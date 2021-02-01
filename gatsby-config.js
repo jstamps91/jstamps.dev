@@ -1,7 +1,7 @@
 require('dotenv').config()
-const aboutData = require('./about')
+import aboutData from './about'
 
-module.exports = {
+export default {
   pathPrefix: `/`,
   ...aboutData,
   mapping: {
@@ -49,7 +49,7 @@ module.exports = {
           {
             resolve: 'gatsby-remark-embed-gist',
             options: {
-              username: 'dantehemerson',
+              username: 'jstamps91',
               includeDefaultCss: true,
             },
           },
@@ -109,7 +109,7 @@ module.exports = {
           {
             resolve: 'gatsby-remark-embed-gist',
             options: {
-              username: 'dantehemerson',
+              username: 'jstamps91',
               includeDefaultCss: true,
             },
           },
@@ -173,8 +173,8 @@ module.exports = {
         head: false,
         sampleRate: 5,
         siteSpeedSampleRate: 10,
-        cookieDomain: 'dantecalderon.dev',
-        cookieName: 'gaDanteCalderon',
+        cookieDomain: 'jstamps.dev',
+        cookieName: 'gajstamps',
         cookieExpires: 86400,
       },
     },
@@ -204,8 +204,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Dante Calderón',
-        short_name: 'Dante C.',
+        name: 'Joshua Stamps',
+        short_name: 'J. Stamps',
         start_url: '/',
         icon: 'src/assets/images/logo.png',
         background_color: '#E1524A',

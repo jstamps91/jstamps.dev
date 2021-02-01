@@ -1,45 +1,30 @@
 module.exports = {
   siteMetadata: {
-    title: 'Dante Calderón',
+    title: 'Joshua Stamps',
     subtitle: 'TypeScript / Node.js Developer',
-    description: `Hi, I'm Dante Calderon, I am passionate about Nodejs.`,
-    siteUrl: 'https://dantecalderon.dev',
-    disqusShortname: 'dantecalderon',
-    githubUser: 'dantehemerson',
+    description: `Hi, I'm Joshua Stamps, I am passionate about Nodejs.`,
+    siteUrl: 'https://jstamps.dev',
+    disqusShortname: 'jstamps',
+    githubUser: 'jstamps91',
     social: [{
         title: 'Github',
-        link: 'https://github.com/dantehemerson',
+        link: 'https://github.com/jstamps91',
         icon: 'github'
       },
       {
         title: 'Twitter',
-        link: 'https://twitter.com/dantehemerson',
+        link: 'https://twitter.com/jstamps91',
         icon: 'twitter'
       },
       {
         title: 'Dev',
-        link: 'https://dev.to/dantehemerson',
+        link: 'https://dev.to/jstamps91',
         icon: 'dev'
       },
       {
         title: 'Linkedin',
-        link: 'https://linkedin.com/in/dantehemerson',
+        link: 'https://linkedin.com/in/joshua-stamps',
         icon: 'linkedin'
-      },
-      {
-        title: 'Twitch',
-        link: 'https://www.twitch.tv/dantehemerson',
-        icon: 'twitch'
-      },
-      {
-        title: 'Medium',
-        link: 'https://medium.com/@dantehemerson',
-        icon: 'medium'
-      },
-      {
-        title: 'Dev',
-        link: 'https://instagram.com/dantehemerson',
-        icon: 'dev'
       },
       {
         title: 'StackOverflow',
@@ -98,11 +83,10 @@ module.exports = {
       },
     ],
     socials: {
-      github: 'https://github.com/dantehemerson',
-      twitter: 'https://twitter.com/dantehemerson',
-      linkedin: 'https://linkedin.com/in/dantehemerson',
-      dev: 'https://dev.to/dantehemerson',
-      instagram: 'https://instagram.com/dantehemerson',
+      github: 'https://github.com/jstamps91',
+      twitter: 'https://twitter.com/jstamps91',
+      linkedin: 'https://linkedin.com/in/joshua-stamps',
+      dev: 'https://dev.to/jstamps91',
     },
     menu: [{
         title: 'Home',
