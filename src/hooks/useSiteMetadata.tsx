@@ -16,7 +16,6 @@ export const useSiteMetadata = () => {
             github
             twitter
             linkedin
-            instagram
           }
           disqusShortname
           siteUrl

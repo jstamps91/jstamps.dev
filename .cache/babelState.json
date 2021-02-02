@@ -7,7 +7,7 @@
           "options": {}
         },
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         },
         {
@@ -24,21 +24,21 @@
           }
         },
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
           "options": {
             "plugins": [],
             "isTSX": true,
@@ -59,19 +59,19 @@
           "options": {}
         },
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
           "options": {}
         },
         {
@@ -90,7 +90,7 @@
       ],
       "presets": [
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
           "options": {
             "plugins": [],
             "isTSX": true,
@@ -111,19 +111,19 @@
           "options": {}
         },
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
           "options": {}
         },
         {
@@ -142,7 +142,7 @@
       ],
       "presets": [
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
           "options": {
             "plugins": [],
             "isTSX": true,
@@ -163,19 +163,19 @@
           "options": {}
         },
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
           "options": {}
         },
         {
@@ -194,7 +194,7 @@
       ],
       "presets": [
         {
-          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\dantecalderon.dev\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
           "options": {
             "plugins": [],
             "isTSX": true,

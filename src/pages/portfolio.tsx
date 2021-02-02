@@ -17,7 +17,7 @@ const Portfolio = props => {
         title="Portfolio"
         description={[
           'These are some of my projects, to see more projects check my ',
-          <a key="link" target="__blank" rel="noopener" href="https://github.com/dantehemerson">
+          <a key="link" target="__blank" rel="noopener" href="https://github.com/jstamps91">
             Github
           </a>,
           '.',
@@ -50,13 +50,13 @@ export const queryPortfolio = graphql`
           frontmatter {
             title
             slug
-            image {
-              childImageSharp {
-                fluid {
-                  ...GatsbyImageSharpFluid_tracedSVG
-                }
-              }
-            }
+            # image {
+            #   childImageSharp {
+            #     fluid {
+            #       ...GatsbyImageSharpFluid_tracedSVG
+            #     }
+            #   }
+            # }
             tags
             date
             repository

@@ -1,7 +1,8 @@
 require('dotenv').config()
-import aboutData from './about'
+//import aboutData from './about'
+const aboutData = require('./about')
 
-export default {
+module.exports = {
   pathPrefix: `/`,
   ...aboutData,
   mapping: {

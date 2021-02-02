@@ -75,19 +75,10 @@ export const queryBlog = graphql`
             date(formatString: "DD MMMM, YYYY")
             title
             slug
-            image {
-              childImageSharp {
-                fluid {
-                  ...GatsbyImageSharpFluid_tracedSVG
-                }
-              }
             }
-            published
           }
         }
       }
-    }
   }
 `
-
 export default BlogWithTags

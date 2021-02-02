@@ -43,10 +43,10 @@ const Blog = props => {
             else return false
           })}
           <Pagination
-            pages={numPages}
-            selected={currentPage}
-            hasNextPage={hasNextPage}
-            hasPrevPage={hasPrevPage}
+            // pages={numPages}
+            // selected={currentPage}
+            // hasNextPage={hasNextPage}
+            // hasPrevPage={hasPrevPage}
           />
         </PostsWrapper>
       </div>
@@ -79,13 +79,6 @@ export const queryBlog = graphql`
             date(formatString: "DD MMMM, YYYY")
             title
             slug
-            image {
-              childImageSharp {
-                fluid {
-                  ...GatsbyImageSharpFluid_tracedSVG
-                }
-              }
-            }
             published
           }
         }
