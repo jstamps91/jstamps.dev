@@ -14,7 +14,7 @@ module.exports = {
       },
       {
         title: 'Twitter',
-        link: 'https://twitter.com/jstamps91',
+        link: 'https://twitter.com/stamps_dev',
         icon: 'twitter',
       },
       {

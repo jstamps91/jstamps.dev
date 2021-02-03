@@ -3,7 +3,7 @@ import _ from 'lodash'
 import PropTypes from 'prop-types'
 import React from 'react'
 import styled from 'styled-components'
-import { AwesomeButton } from 'react-awesome-button'
+import AwesomeButton from 'react-awesome-button'
 
 const Button = styled(AwesomeButton)`
   margin: 14px 3px !important;
@@ -66,7 +66,7 @@ const Share = ({ title, path }) => {
       <Button
         type="twitter"
         size="small"
-        href={`https://twitter.com/intent/tweet?text=${title} by Dante Calderón(@dantehemerson) ${url}`}
+        href={`https://twitter.com/intent/tweet?text=${title} by Joshua Stamps(@stamps_dev) ${url}`}
         title="Share on Twitter"
         target="_blank"
         rel="noopener"

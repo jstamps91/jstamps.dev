@@ -83,9 +83,9 @@ export default props => {
       </div>
       <Body>
         <By>{props.make ? 'Made with ❤' : 'Written'} by</By>
-        <Name to="/#a-little-bit-about-me">Dante Calderón</Name>
+        <Name to="/#a-little-bit-about-me">Joshua Stamps</Name>
         <About>
-          Hi, I'm Dante Calderón, web developer. Click{' '}
+          Hi, I'm Joshua Stamps, Software Engineer. Click{' '}
           <Link className="default" to="/#a-little-bit-about-me">
             here
           </Link>{' '}

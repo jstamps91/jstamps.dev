@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types'
 import React, { PureComponent } from 'react'
 import Helmet from 'react-helmet'
-import avatar from '../assets/images/logo.png'
+import avatar from '/logo.png/'
 
 export default class SEO extends PureComponent {
   static propTypes = {
@@ -13,27 +13,27 @@ export default class SEO extends PureComponent {
   }
 
   static defaultProps = {
-    title: 'Dante Calderon',
-    image: `https://dantecalderon.dev${avatar}`,
-    url: 'https://dantecalderon.dev/',
-    description: 'Dante Calderon - Backend Nodejs Developer',
+    title: 'Joshua Stamps',
+    image: `https://jstamps.dev${avatar}`,
+    url: 'https://jstamps.dev/',
+    description: 'Joshua Stamps - Software Engineer',
     isPost: false,
   }
 
   render() {
     const { image, url, description, isPost } = this.props
-    const title = (this.props.title === '' ? '' : `${this.props.title} · `) + 'Dante Calderon'
+    const title = (this.props.title === '' ? '' : `${this.props.title} · `) + 'Joshua Stamps'
     const schemaOrgJSONLD = [
       {
         '@context': 'http://schema.org',
         '@type': 'WebSite',
         sameAs: [
-          'https://twitter.com/dantehemerson',
+          'https://twitter.com/stamps_dev',
           'https://www.facebook.com/Dante-Calder%C3%B3n-600909820246917/',
           'https://plus.google.com/u/0/101542534057875808813',
-          'https://www.instagram.com/dantehemerson',
-          'https://www.github.com/dantehemerson',
-          'https://www.linkedin.com/in/dantehemerson',
+          'https://www.instagram.com/jstamps91',
+          'https://www.github.com/jstamps91',
+          'https://www.linkedin.com/in/joshua-stamps',
         ],
         url: url,
         name: title,

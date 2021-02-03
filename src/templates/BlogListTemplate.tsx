@@ -43,10 +43,10 @@ const Blog = props => {
             else return false
           })}
           <Pagination
-            // pages={numPages}
-            // selected={currentPage}
-            // hasNextPage={hasNextPage}
-            // hasPrevPage={hasPrevPage}
+            pages={numPages}
+            selected={currentPage}
+            hasNextPage={hasNextPage}
+            hasPrevPage={hasPrevPage}
           />
         </PostsWrapper>
       </div>

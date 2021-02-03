@@ -75,23 +75,23 @@ export const pageQuery = graphql`
         subtitle
         date(formatString: "MMMM DD, YYYY")
         description
-        # image {
-        #   childImageSharp {
-        #     fluid(maxWidth: 1920) {
-        #       ...GatsbyImageSharpFluid_tracedSVG
-        #     }
-        #   }
-        # }
-        # images {
-        #   description
-          # image {
-          #   childImageSharp {
-          #     fluid(maxWidth: 1920) {
-          #       ...GatsbyImageSharpFluid_tracedSVG
-          #     }
-          #   }
-          # }
-        # }
+        image {
+          childImageSharp {
+            fluid(maxWidth: 1920) {
+              ...GatsbyImageSharpFluid_tracedSVG
+            }
+          }
+        }
+        images {
+          description
+          image {
+            childImageSharp {
+              fluid(maxWidth: 1920) {
+                ...GatsbyImageSharpFluid_tracedSVG
+              }
+            }
+          }
+        }
         model
         tags
         stack

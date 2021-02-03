@@ -32,7 +32,7 @@ const ContactSocial = () => {
   const {
     siteMetadata: { title, socials },
   } = useSiteMetadata()
-    console.log('🤫 Dante ➤ ContactSocial ➤ socials', socials)
+    console.log('🤫 Josh ➤ ContactSocial ➤ socials', socials)
 
   return (
     <ContactSocialWrapper>

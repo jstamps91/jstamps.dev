@@ -50,13 +50,13 @@ export const queryPortfolio = graphql`
           frontmatter {
             title
             slug
-            # image {
-            #   childImageSharp {
-            #     fluid {
-            #       ...GatsbyImageSharpFluid_tracedSVG
-            #     }
-            #   }
-            # }
+            image {
+              childImageSharp {
+                fluid {
+                  ...GatsbyImageSharpFluid_tracedSVG
+                }
+              }
+            }
             tags
             date
             repository
