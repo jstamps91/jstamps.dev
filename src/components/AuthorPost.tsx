@@ -88,7 +88,7 @@ export default props => (
     <Body>
       <Name>
         <Author id="post_authorname" to="/#a-little-bit-about-me">
-          Dante Calderón
+          Joshua Stamps
         </Author>{' '}
         <b>|</b>{' '}
         <span id="post_date">
