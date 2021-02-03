@@ -69,14 +69,14 @@ const groups = [
         about:
           'Python is a clear and powerful object-oriented programming language, comparable to Perl, Ruby, Scheme, or Java.',
       },
-      // {
-      //   url: 'https://google.com',
-      //   name: 'Go',
-      //   icon: 'go.svg',
-      //   type: type[1],
-      //   about:
-      //     'An open source programming language that makes it easy to build simple, reliable, and efficient software',
-      // },
+      {
+        url: 'https://google.com',
+        name: 'Go',
+        icon: 'go.svg',
+        type: type[1],
+        about:
+          'An open source programming language that makes it easy to build simple, reliable, and efficient software',
+      },
     ],
   },
   {
@@ -98,22 +98,13 @@ const groups = [
         type: type[20],
         about: 'Simple, flexible, fun javascript test framework for node.js & the browser',
       },
-      {
-        url: 'https://google.com',
-        name: 'Jest',
-        icon: 'jest.svg',
-        background: '#3b3738',
-        type: type[20],
-        about: 'Painless JavaScript Unit Testing',
-      },
       // {
-      //   // tmp please, Commented until learn
       //   url: 'https://google.com',
-      //   name: 'Cypress',
-      //   icon: 'cypress.svg',
-      //   background: 'white',
+      //   name: 'Jest',
+      //   icon: 'jest.svg',
+      //   background: '#3b3738',
       //   type: type[20],
-      //   about: 'Better, faster, and more reliable testing for anything that runs in a browser.'
+      //   about: 'Painless JavaScript Unit Testing',
       // },
       {
         url: 'https://google.com',

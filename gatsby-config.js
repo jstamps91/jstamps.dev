@@ -167,18 +167,18 @@ module.exports = {
     `gatsby-plugin-catch-links`,
     'gatsby-plugin-sitemap',
     'gatsby-plugin-robots-txt',
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: process.env.GATSBY_ANALITYCS_ID,
-        head: false,
-        sampleRate: 5,
-        siteSpeedSampleRate: 10,
-        cookieDomain: 'jstamps.dev',
-        cookieName: 'gajstamps',
-        cookieExpires: 86400,
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-google-analytics`,
+    //   options: {
+    //     trackingId: process.env.GATSBY_ANALITYCS_ID,
+    //     head: false,
+    //     sampleRate: 5,
+    //     siteSpeedSampleRate: 10,
+    //     cookieDomain: 'jstamps.dev',
+    //     cookieName: 'gajstamps',
+    //     cookieExpires: 86400,
+    //   },
+    // },
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
@@ -215,12 +215,12 @@ module.exports = {
       },
     },
     'gatsby-plugin-styled-components',
-    {
-      resolve: 'gatsby-plugin-mailchimp',
-      options: {
-        endpoint: process.env.GATSBY_MAILCHIMP_LIST || '',
-      },
-    },
+    // {
+    //   resolve: 'gatsby-plugin-mailchimp',
+    //   options: {
+    //     endpoint: process.env.GATSBY_MAILCHIMP_LIST || '',
+    //   },
+    // },
     {
       resolve: `gatsby-plugin-typescript`,
       options: {

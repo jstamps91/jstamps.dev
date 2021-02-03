@@ -37,31 +37,31 @@ module.exports = {
         link: 'https://instagram.com/jstamps91',
         icon: 'instagram',
       },
-      {
-        title: 'FreeCodeCamp',
-        link: 'https://instagram.com/jstamps91',
-        icon: 'free-code-camp',
-      },
-      {
-        title: 'Gitlab',
-        link: 'https://instagram.com/jstamps91',
-        icon: 'gitlab',
-      },
+      // {
+      //   title: 'FreeCodeCamp',
+      //   link: 'https://instagram.com/jstamps91',
+      //   icon: 'free-code-camp',
+      // },
+      // {
+      //   title: 'Gitlab',
+      //   link: 'https://instagram.com/jstamps91',
+      //   icon: 'gitlab',
+      // },
       {
         title: 'Angellist',
         link: 'https://angel.co/jstamps91',
         icon: 'angellist',
       },
-      {
-        title: 'Codepen',
-        link: 'https://codepen.io/jstamps91',
-        icon: 'codepen',
-      },
-      {
-        title: 'Meetup',
-        link: 'https://www.meetup.com/es/members/256853185/',
-        icon: 'meetup',
-      },
+      // {
+      //   title: 'Codepen',
+      //   link: 'https://codepen.io/jstamps91',
+      //   icon: 'codepen',
+      // },
+      // {
+      //   title: 'Meetup',
+      //   link: 'https://www.meetup.com/es/members/256853185/',
+      //   icon: 'meetup',
+      // },
       {
         title: 'Pinterest',
         link: 'https://www.pinterest.com/jstamps91/',

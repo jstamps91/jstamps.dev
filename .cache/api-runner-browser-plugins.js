@@ -17,9 +17,6 @@ module.exports = [{
       plugin: require('../node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('../node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
-      options: {"plugins":[],"head":false,"sampleRate":5,"siteSpeedSampleRate":10,"cookieDomain":"jstamps.dev","cookieName":"gajstamps","cookieExpires":86400,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0},
-    },{
       plugin: require('../node_modules/gatsby-plugin-netlify-cms/gatsby-browser.js'),
       options: {"plugins":[],"modulePath":"C:\\Users\\Joshua Stamps\\OneDrive\\GitHubRepos\\jstamps.dev/src/cms/cms.js"},
     },{

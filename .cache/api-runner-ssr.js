@@ -17,9 +17,6 @@ var plugins = [{
       plugin: require('C:/Users/Joshua Stamps/OneDrive/GitHubRepos/jstamps.dev/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[],"output":"/sitemap.xml","createLinkInHead":true},
     },{
-      plugin: require('C:/Users/Joshua Stamps/OneDrive/GitHubRepos/jstamps.dev/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
-      options: {"plugins":[],"head":false,"sampleRate":5,"siteSpeedSampleRate":10,"cookieDomain":"jstamps.dev","cookieName":"gajstamps","cookieExpires":86400,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0},
-    },{
       plugin: require('C:/Users/Joshua Stamps/OneDrive/GitHubRepos/jstamps.dev/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     },{

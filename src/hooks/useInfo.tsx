@@ -8,8 +8,8 @@ export const useInfo = () => {
   const [info, setInfo] = useLocalStorage('info', {
     githubStatus: {
       status: '🌳 Save the planet',
-      bio: 'Software Developer. ♥ for NodeJS and Typescript.',
-      company: '@dantecalderon',
+      bio: 'Software Engineer',
+      company: '@jstamps91',
       contributions: 2573,
     },
     latestCommit: {

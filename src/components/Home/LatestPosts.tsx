@@ -22,13 +22,13 @@ export const LatestPosts = () => {
               frontmatter {
                 date(formatString: "DD MMMM, YYYY")
                 title
-                image {
-                  childImageSharp {
-                    fluid {
-                      ...GatsbyImageSharpFluid_tracedSVG
-                    }
-                  }
-                }
+                # image {
+                #   childImageSharp {
+                #     fluid {
+                #       ...GatsbyImageSharpFluid_tracedSVG
+                #     }
+                #   }
+                # }
               }
             }
           }
