@@ -85,7 +85,7 @@ module.exports = {
     ],
     socials: {
       github: 'https://github.com/jstamps91',
-      twitter: 'https://twitter.com/jstamps91',
+      twitter: 'https://twitter.com/stamps_dev',
       linkedin: 'https://linkedin.com/in/joshua-stamps',
       dev: 'https://dev.to/jstamps91',
     },

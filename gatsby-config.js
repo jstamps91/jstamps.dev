@@ -206,7 +206,7 @@ module.exports = {
       resolve: 'gatsby-plugin-manifest',
       options: {
         name: 'Joshua Stamps',
-        short_name: 'J. Stamps',
+        short_name: 'jstamps',
         start_url: '/',
         icon: 'src/assets/images/logo.png',
         background_color: '#E1524A',
@@ -215,12 +215,14 @@ module.exports = {
       },
     },
     'gatsby-plugin-styled-components',
-    // {
-    //   resolve: 'gatsby-plugin-mailchimp',
-    //   options: {
-    //     endpoint: process.env.GATSBY_MAILCHIMP_LIST || '',
-    //   },
-    // },
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        endpoint:
+          process.env.GATSBY_MAILCHIMP_LIST ||
+          '"https://dev.us7.list-manage.com/subscribe/post?u=7b9df7a9155c8585ba4940361&amp;id=ea367e03eb"',
+      },
+    },
     {
       resolve: `gatsby-plugin-typescript`,
       options: {

@@ -47,12 +47,12 @@ export default class SEO extends PureComponent {
           '@context': 'http://schema.org',
           '@type': 'BreadcrumbList',
           sameAs: [
-            'https://twitter.com/dantehemerson',
+            'https://twitter.com/stamps_dev',
             'https://www.facebook.com/Dante-Calder%C3%B3n-600909820246917/',
             'https://plus.google.com/u/0/101542534057875808813',
-            'https://www.instagram.com/dantehemerson',
-            'https://www.github.com/dantehemerson',
-            'https://www.linkedin.com/in/dantehemerson',
+            'https://www.instagram.com/jstamps91',
+            'https://www.github.com/jstamps91',
+            'https://www.linkedin.com/in/joshua-stamps',
           ],
           itemListElement: [
             {
@@ -79,7 +79,7 @@ export default class SEO extends PureComponent {
           ],
           url: url,
           name: title,
-          alternateName: `${url} | Dante Calderon`,
+          alternateName: `${url} | Joshua Stamps`,
           headline: title,
           image: {
             '@type': 'ImageObject',
@@ -105,8 +105,8 @@ export default class SEO extends PureComponent {
         <meta property="og:image" content={image} />
 
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@dantehemerson" />
-        <meta name="twitter:creator" content="@dantehemerson" />
+        <meta name="twitter:site" content="@stamps_dev" />
+        <meta name="twitter:creator" content="@stamps_dev" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={image} />

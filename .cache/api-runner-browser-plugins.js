@@ -27,7 +27,7 @@ module.exports = [{
       options: {"plugins":[]},
     },{
       plugin: require('../node_modules/gatsby-plugin-manifest/gatsby-browser.js'),
-      options: {"plugins":[],"name":"Joshua Stamps","short_name":"J. Stamps","start_url":"/","icon":"src/assets/images/logo.png","background_color":"#E1524A","theme_color":"#000","display":"standalone","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"f5944315e4d6e0a52f5f98a8d78530e5"},
+      options: {"plugins":[],"name":"Joshua Stamps","short_name":"jstamps","start_url":"/","icon":"src/assets/images/logo.png","background_color":"#E1524A","theme_color":"#000","display":"standalone","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"f5944315e4d6e0a52f5f98a8d78530e5"},
     },{
       plugin: require('../gatsby-browser.js'),
       options: {"plugins":[]},
