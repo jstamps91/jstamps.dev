@@ -182,7 +182,7 @@ const NavbarNav = styled.ul`
   justify-content: center;
   align-items: center;
   display: flex;
-  background: white;
+  background: #e9e9ed;
   transition: all 0s !important;
   * {
     transition: all 0s !important;

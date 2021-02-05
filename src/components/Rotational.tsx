@@ -31,7 +31,7 @@ const AvatarContainer = styled.div`
       transform: rotate(-45deg);
       height: 150px;
       width: 150px;
-      background-color: #bcebd4;
+      background-color: #8daac8;
       z-index: -1;
     }
     &::after {
@@ -39,7 +39,7 @@ const AvatarContainer = styled.div`
       position: absolute;
       top: 4%;
       left: 6%;
-      background-color: #f5c0a2;
+      background-color: #5b0e17;
       width: 100%;
       height: 100%;
       z-index: -1;

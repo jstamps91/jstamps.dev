@@ -15,22 +15,22 @@ const Info = () => {
     >
       <Container>
         <InfoItem
-          title="😊 Status"
+          title="Status"
           description={info.githubStatus.status}
           postfix={secureTimeAgo(info.githubStatus.updatedAt)}
         />
         <InfoItem title="⛏ Working on" description={info.githubStatus.company} />
         <InfoItem
-          title="🚀 Contributions"
+          title="Contributions"
           description={`${info.githubStatus.contributions || 0} in the last year`}
         />
         <InfoItem
-          title="👷 Latest Commit"
+          title="Latest Commit"
           description={`<a href='${info.latestCommit.url}' target='_blank'>${info.latestCommit.message}</a>`}
           postfix={secureTimeAgo(info.latestCommit.createdAt)}
         />
         <InfoItem
-          title="🎶 Listening"
+          title="Listening"
           showPostfixImage={info.listening.playing}
           description={`<a href='${info.listening.url}' target='_blank'>${info.listening.name}</a>`}
           postfix={secureTimeAgo(info.listening.lastPlayingDate)}

@@ -9,7 +9,7 @@ import Social from '../SocialBlade'
 const HeaderHome = ({ data }) => (
   <div
     style={{
-      background: '#e8fdf5',
+      background: '#1d1d1d',
     }}
   >
     <Container className="row">
