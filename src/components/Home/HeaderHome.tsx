@@ -9,7 +9,7 @@ import Social from '../SocialBlade'
 const HeaderHome = ({ data }) => (
   <div
     style={{
-      background: 'linear-gradient(to right,rgb(233,233,235,0.25) 0%,rgba(233,233,235,0.6) 50%,rgba(233,233,235,0) 100%)',
+      background: '#FAFAFA',
     }}
   >
     <Container className="row">
