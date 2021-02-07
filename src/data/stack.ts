@@ -55,8 +55,8 @@ const groups = [
       },
       {
         url: 'https://google.com',
-        name: 'C++',
-        icon: 'cplusplus-original.svg',
+        name: 'Java',
+        icon: 'java-original.svg',
         type: type[1],
         about:
           'Has imperative, object-oriented and generic programming features, while also providing the facilities for low level memory manipulation',
