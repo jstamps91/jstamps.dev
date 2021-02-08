@@ -13,7 +13,7 @@ export default class SEO extends PureComponent {
   }
 
   static defaultProps = {
-    title: 'Joshua Stamps',
+    title: 'jstamps.dev',
     image: `https://jstamps.dev${avatar}`,
     url: 'https://jstamps.dev/',
     description: 'Joshua Stamps - Software Engineer',
