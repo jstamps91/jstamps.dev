@@ -22,7 +22,7 @@ export default class SEO extends PureComponent {
 
   render() {
     const { image, url, description, isPost } = this.props
-    const title = (this.props.title === '' ? '' : `${this.props.title} · `) + 'Joshua Stamps'
+    const title = (this.props.title === '' ? '' : `${this.props.title} · `) + 'jstamps.dev'
     const schemaOrgJSONLD = [
       {
         '@context': 'http://schema.org',

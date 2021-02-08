@@ -125,7 +125,6 @@ const NavbarContainer = styled.div`
 `
 
 const Title = styled.p`
-  text-transform: capitalize;
   font-weight: 900 !important;
   color: $navbar-link-color;
   opacity: 0.9;
