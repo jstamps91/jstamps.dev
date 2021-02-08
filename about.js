@@ -108,7 +108,12 @@ module.exports = {
         to: '/portfolio',
         icon: 'home',
       },
-      //{ title: 'Contact', id: 'Contact', to: '/contact', icon: 'home' }
+      {
+        title: 'Contact',
+        id: 'Contact',
+        to: '/contact',
+        icon: 'home',
+      },
     ],
   },
 }
