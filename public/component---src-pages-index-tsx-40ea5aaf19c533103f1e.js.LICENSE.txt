@@ -1,0 +1,4 @@
+/*!
+     * array-includes-all | ISC (c) Shinnosuke Watanabe
+     * https://github.com/shinnn/array-includes-all
+    */

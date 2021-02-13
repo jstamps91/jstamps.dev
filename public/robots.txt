@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://jstamps.dev/sitemap.xml
+Host: https://jstamps.dev

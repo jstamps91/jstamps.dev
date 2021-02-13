@@ -1,0 +1,6 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/404.jpg": "static/404-592e288c4c009509d804fe30274db8fc.jpg",
+  "static/logo.png": "static/logo-32a40b22b2051d3f837f23cd58fcbd32.png"
+}
