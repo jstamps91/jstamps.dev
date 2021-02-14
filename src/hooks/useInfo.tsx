@@ -7,26 +7,26 @@ import { get } from 'lodash'
 export const useInfo = () => {
   const [info, setInfo] = useLocalStorage('info', {
     githubStatus: {
-      status: '🌳 Save the planet',
+      status: 'Occupy Mars',
       bio: 'Software Engineer',
       company: '@jstamps91',
       contributions: 2573,
     },
     latestCommit: {
-      message: 'WIP WIP WIP',
+      message: 'Add spotify integration',
       createdAt: '2020-05-23T16:38:10Z',
       url:
-        'https://github.com/dantehemerson/url-shortener/commit/b378164f3d7b6847f412f437d504ef7a6c84685c',
+        'https://github.com/jstamps91/Status-API',
     },
     listening: {
-      name: "Where We're Going",
-      artist: 'Hans Zimmer',
-      album: 'Interstellar (Original Motion Picture Soundtrack)',
-      url: 'https://www.last.fm/music/Hans+Zimmer/_/Where+We%27re+Going',
+      name: "Last Train to London",
+      artist: 'ELO',
+      album: 'Electric Light Orchestra',
+      url: 'https://spotify.com/',
       image: 'https://lastfm.freetls.fastly.net/i/u/300x300/b8365c64bec38d1f0d05d9c1367a8cb3.jpg',
       playing: false,
       scrobbles: '105',
-      lastPlayingDate: '2020-12-10T02:20:44.000Z',
+      lastPlayingDate: '2021-2-10T02:20:44.000Z',
     },
   })
 
