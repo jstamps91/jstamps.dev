@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    "**/dist": true,
+    "**/node_modules": false,
+    "package-lock.json": true,
+    ".cache": true,
+    "public": false
+  },
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false,
+  "javascript.preferences.quoteStyle": "single",
+  "prettier.disableLanguages": [],
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "git.ignoreLimitWarning": true
+}

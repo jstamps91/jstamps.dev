@@ -1,0 +1,52 @@
+export const INFO = Object.freeze({
+  title: 'Joshua Stamps',
+  subtitle: 'SOFTWARE ENGINEER',
+  description: `Hi, I'm Joshua Stamps, I am passionate about Java, Spring, React, Angular, and Nodejs.`,
+  siteUrl: 'https://jstamps.dev',
+  disqusShortname: 'jstamps',
+  githubUser: 'jstamps91',
+  social: [
+    { title: 'Github', link: 'https://github.com/jstamps91', icon: 'github-alt' },
+    { title: 'Twitter', link: 'https://twitter.com/stamps_dev', icon: 'twitter' },
+    { title: 'Dev', link: 'https://dev.to/jstamps91', icon: 'dev' },
+    { title: 'Linkedin', link: 'https://linkedin.com/in/jstamps', icon: 'linkedin' },
+    { title: 'Medium', link: 'https://medium.com/@jstamps91', icon: 'medium' },
+    { title: 'Dev', link: 'https://instagram.com/jstamps91', icon: 'dev' },
+    {
+      title: 'StackOverflow',
+      link: 'https://instagram.com/jstamps91',
+      icon: 'stack-overflow',
+    },
+    { title: 'Goodreads', link: 'https://www.goodreads.com/jstamps', icon: 'Goodreads' },
+    {
+      title: 'FreeCodeCamp',
+      link: 'https://instagram.com/jstamps91',
+      icon: 'free-code-camp',
+    },
+    { title: 'Gitlab', link: 'https://instagram.com/jstamps91', icon: 'gitlab' },
+    { title: 'Angellist', link: 'https://angel.co/jstamps91', icon: 'angellist' },
+    { title: 'Codepen', link: 'https://codepen.io/jstamps91', icon: 'codepen' },
+    { title: 'Meetup', link: 'https://www.meetup.com/es/members/256853185/', icon: 'meetup' },
+    { title: 'Pinterest', link: 'https://www.pinterest.com/jstamps91/', icon: 'pinterest' },
+    { title: 'Steam', link: 'https://steamcommunity.com/id/jstamps91/', icon: 'steam' },
+    { title: 'Twitch', link: 'https://www.twitch.tv/jstamps91', icon: 'twitch' },
+    {
+      title: 'Youtube',
+      link: 'https://www.youtube.com/channel/UCCbtGSRgh1RFYysgaZkoE0A',
+      icon: 'youtube-play',
+    },
+  ],
+  socials: {
+    github: 'https://github.com/jstamps91',
+    twitter: 'https://twitter.com/jstamps91',
+    linkedin: 'https://linkedin.com/in/jstamps91',
+    dev: 'https://dev.to/jstamps91',
+    instagram: 'https://instagram.com/jstamps91',
+  },
+  menu: [
+    { title: 'Home', id: '', to: '/', icon: 'home' },
+    { title: 'Blog', id: 'Blog', to: '/blog', icon: 'home' },
+    { title: 'Portfolio', id: 'Portfolio', to: '/portfolio', icon: 'home' },
+    { title: 'Contact', id: 'Contact', to: '/contact', icon: 'home' }
+  ],
+})

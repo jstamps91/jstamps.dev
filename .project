@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jstamps.dev</name>
+	<comment>Personal Portfolio Website</comment>
+	<projects>jstamps.dev, jstamps.dev-api</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
